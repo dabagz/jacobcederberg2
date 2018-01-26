@@ -16,7 +16,7 @@ int main
 
 {
 
-  fprintf(stdout, "%s\n", "Jacob Cederberg");
+  fprintf(stdout, "%s\n", "Jacob Cederberg, Michael Bagazinski");
   
   return EXIT_SUCCESS;
 }
